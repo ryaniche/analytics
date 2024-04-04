@@ -53,7 +53,7 @@ def process_folder(input_folder, output_folder):
             print(f"Processed {input_file_path} -> {output_file_path}")
 
 # Replace these paths with your actual folder paths
-input_folder = 'C:\\Users\\linh.nguyenv14\\Desktop\\BAU_WeeklyHashing_Input'
-output_folder = 'C:\\Users\\linh.nguyenv14\\Desktop\\BAU_WeeklyHashing_Output'
+input_folder = 'C:\\Users\\[YourUsername]\\Desktop\\BAU_WeeklyHashing_Input'
+output_folder = 'C:\\Users\\[YourUsername]\\Desktop\\BAU_WeeklyHashing_Output'
 
 process_folder(input_folder, output_folder)
